@@ -1,6 +1,6 @@
 # Semester Project - E-shop
 
-This project is a simple e-shop web application created as a university semester project. The application is written in PHP using a custom object-oriented programming (OOP) architecture and custom routing through a main front controller.
+This project is a simple e-shop web application created as a university semester subject KIV/WEB (Web applications). The application is written in PHP using a custom object-oriented programming (OOP) architecture and custom routing through a main front controller.
 
 @Author: Michael Hladky
 
